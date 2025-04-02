@@ -1,5 +1,9 @@
-<h2 align="left">Hello word 👋! My name is Romeu and I'm a passionate software engineer fullsctack,  from Mozambique</h2>
-
+# Hello word 👋! My name is Romeu and I'm a passionate Full Stack Web Developer,  from Mozambique
+💻 Currently building my own webpage  
+🎓 Constantly learning and improving my web development skills  
+👨‍💻 Full Stack Web Developer with experience in React, Node.js, and databases  
+📈 Background in Digital Marketing and SEO optimization  
+🚀 Passionate about technology, coding, and creating innovative solutions 
 ###
 
 <div align="center">
@@ -12,6 +16,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611zccm0c31fscqluof3uikq5az2lqt7kc8fdqqtisp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
+<h1>💻 Tech Stack:</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
@@ -36,9 +41,9 @@
 </div>
 
 ###
-
+# Contact:
 <div align="left">
-  <a href="romeumaleiane1@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=romeumaleiane1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/romeu-maleiane" target="_blank">
