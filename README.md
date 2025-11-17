@@ -1,8 +1,7 @@
 # Hello word 👋! My name is Romeu and I'm a passionate Full Stack Web Developer,  from Mozambique
-💻 Currently building my own webpage  
+💻 Currently building my personal branding  
 🎓 Constantly learning and improving my web development skills  
-👨‍💻 Full Stack Web Developer with experience in React, Node.js, and databases  
-📈 Background in Digital Marketing and SEO optimization  
+👨‍💻 Full Stack Web Developer with experience in Next.js, React, GSAP, Tailwind CSS, Node.js, and databases  
 🚀 Passionate about technology, coding, and creating innovative solutions 
 ###
 
